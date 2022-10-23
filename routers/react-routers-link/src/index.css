@@ -1,0 +1,13 @@
+ul > li{
+    list-style: none;
+    padding-right: 5px;
+}
+ul{
+    display: flex;
+}
+.id2{
+    display: block;
+}
+.id{
+    list-style: circle;
+}
